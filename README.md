@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there, I am Harsh Verma. A frontend developer at GDSC NIT Rourkela,<br>i am currently learning stage of my development journey , <br>Keen on becoming a full-stack developer in future!
+Hello there, I am Harsh Verma. A frontend developer at GDSC NIT Rourkela,<br>i am currently at learning stage of my development journey , <br>Keen on becoming a full-stack developer in future!
 
 
 ## 🌐 Socials:
