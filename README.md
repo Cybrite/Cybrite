@@ -21,4 +21,6 @@ Hello there, I am Harsh Verma. A frontend developer at GDSC NIT Rourkela,<br>i a
 ---
 [![](https://visitcount.itsvg.in/api?id=Cybrite&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://app.daily.dev/harshverma37"><img src="https://api.daily.dev/devcards/v2/s0b3Y6OY4VZouC4XdaT4T.png?r=tpz&type=default" width="356" alt="Harsh verma's Dev Card"/></a>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
