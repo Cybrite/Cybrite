@@ -3,7 +3,7 @@
 
 <!-- Landscape Image Space -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dqqyuvg1v/image/upload/v1742981846/Nine_by_Five_olkt5c.png" alt="Banner" width="100%" style="border-radius: 8px; margin: 20px 0;"/>
+  <img src="https://res.cloudinary.com/dqqyuvg1v/image/upload/v1742983941/final_i5wulr.png" alt="Banner" width="100%" style="border-radius: 8px; margin: 20px 0;"/>
 </div>
 
 <!-- Profile Views & Trophies -->
