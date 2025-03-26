@@ -3,14 +3,14 @@
 
 <!-- Landscape Image Space -->
 <div align="center">
-  <img src="https://res.cloudinary.com/dqqyuvg1v/image/upload/v1742844077/sr2cf3056360faws3_i9eqpy.png" alt="Banner" width="100%" style="border-radius: 8px; margin: 20px 0;"/>
+  <img src="https://res.cloudinary.com/dqqyuvg1v/image/upload/v1742981846/Nine_by_Five_olkt5c.png" alt="Banner" width="100%" style="border-radius: 8px; margin: 20px 0;"/>
 </div>
 
 <!-- Profile Views & Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cybrite&label=Profile%20views&color=0e75b6&style=flat" alt="cybrite" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybrite&margin-w=15&column=7" alt="cybrite" /></a>
-</p>
+   <img src="https://komarev.com/ghpvc/?username=cybrite&label=Profile%20views&color=0e75b6&style=flat" alt="cybrite" /> 
+   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybrite&margin-w=15&column=7" alt="cybrite" /></a>
+ </p>
 
 ## 🚀 About Me
 
