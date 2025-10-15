@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumar Verma</h1>
-<h3 align="center">Web Developer | Web3 Enthusiast | Poet</h3>
+<h3 align="center">Web Developer | Poet</h3>
 
 <!-- Landscape Image Space -->
 <div align="center">
