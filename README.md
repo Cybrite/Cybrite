@@ -39,8 +39,15 @@ I use a variety of tools to bring ideas to life. Here is the palette I paint wit
 
 <div align="center">
   <a href="https://github.com/Cybrite">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cybrite&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=8A2BE2"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybrite&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=8A2BE2"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cybrite&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Cybrite">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cybrite&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
